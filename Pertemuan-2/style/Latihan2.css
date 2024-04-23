@@ -1,0 +1,71 @@
+h2 {
+    color: rgb(13, 231, 13);
+    margin-bottom: 90px;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-family: Arial;
+}
+
+.satuu, .duaa, .tigaa {
+    padding: 4px;
+}
+
+.satuu {
+    width: 300px;
+    float: left;
+    border: 2px solid black;
+    margin-left: 50px;
+}
+
+.satuu h3 {
+    color: rgb(69, 69, 222);
+    font-family: Arial;
+}
+
+.satuu img {
+    width: 300px;
+    height: 230px;
+}
+
+.duaa {
+    width: 300px;
+    float: inline-start;
+    border: 2px solid black;
+    height: 430px;
+    margin-left: 230px;
+}
+
+.duaa img{
+    width: 300px;
+    height: 230px;
+}
+
+.duaa h3 {
+    color: rgb(69, 69, 222);
+    font-family: Arial;
+}
+
+.tigaa {
+    width: 300px;
+    float: inline-end;
+    border: 2px solid black;
+    height: 430px;
+    margin-right: 50px;
+}
+
+.tigaa img {
+    width: 300px;
+    height: 230px;
+}
+
+.tigaa h3 {
+    color: rgb(69, 69, 222);
+    font-family: Arial;
+    
+}
+
+footer {
+    margin-top: 600px;
+    margin-bottom: 50px;
+    text-align: center;
+}
